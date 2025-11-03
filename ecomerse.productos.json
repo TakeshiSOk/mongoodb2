@@ -1,0 +1,42 @@
+[{
+  "_id": 101,
+  "nombre": "Laptop Dell",
+  "categoria": "Electrónica",
+  "precio": 2500000,
+  "stock": 15
+},
+{
+  "_id": 102,
+  "nombre": "Mouse Logitech",
+  "categoria": "Accesorios",
+  "precio": 45000,
+  "stock": 100
+},
+{
+  "_id": 103,
+  "nombre": "Teclado Mecánico",
+  "categoria": "Accesorios",
+  "precio": 350000,
+  "stock": 50
+},
+{
+  "_id": 104,
+  "nombre": "Monitor Samsung 27\"",
+  "categoria": "Electrónica",
+  "precio": 1200000,
+  "stock": 20
+},
+{
+  "_id": 105,
+  "nombre": "Audífonos Sony",
+  "categoria": "Audio",
+  "precio": 800000,
+  "stock": 30
+},
+{
+  "_id": 106,
+  "nombre": "Webcam HD",
+  "categoria": "Accesorios",
+  "precio": 250000,
+  "stock": 40
+}]
